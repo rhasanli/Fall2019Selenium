@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="Updated March 14">
+      <change afterPath="$PROJECT_DIR$/.idea/Fall2019Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day1/My1stSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/BasicNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/GoogleSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/JumpToNewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/QuitVsClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/FindElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/VerifyThatElementIsGone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/WarmUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/CheckBoxesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/FileUploading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/NestedFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtonsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RegistrationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/TestForiFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/NoSelectDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByTextMultipleOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/CSS_Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/BasicTestNGTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/UnitTestPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/XPath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Fall2019Selenium.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day1/My1stSelenium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/BasicNavigation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/GoogleSearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/JumpToNewWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/QuitVsClose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day3/FindElementById.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day3/FindElementPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/FindElementsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/VerifyThatElementIsGone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/WarmUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/CheckBoxes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/CheckBoxesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/FileUploading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/NestedFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RadioButtons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RadioButtonsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RegistrationForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/TestForiFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/Alerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/NoSelectDropdown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByTextMultipleOption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/Xpath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day7/CSS_Selector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day7/Xpath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/BasicTestNGTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/UnitTestPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/BrowserUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/DriverFactory.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YdOFSIq0eVWFgSYGJOacmIsjET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitPracticeFall2019/.gitignore" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="TestNG.SearchTests">
+    <configuration name="CSS_Selector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day7.CSS_Selector" />
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTestNGTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.BasicTestNGTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.SearchTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTestPractice.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.UnitTestPractice" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTestPractice.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.UnitTestPractice" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchTests" />
+        <item itemvalue="TestNG.BasicTestNGTests" />
+        <item itemvalue="TestNG.UnitTestPractice.test2" />
+        <item itemvalue="TestNG.UnitTestPractice.test" />
+        <item itemvalue="Application.CSS_Selector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="" />
+      <created>1583268805983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583268805983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated March 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated March 14" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584208642489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584208642489" />
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583699280692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583699280692" />
+    <state x="362" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583281666181">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="362" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281666181" />
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1584208955735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584208955735" />
+    <state x="463" y="93" key="FileChooserDialogImpl" timestamp="1583886756377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="93" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583886756377" />
+    <state x="463" y="94" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583283128326" />
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1584208703741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770946" />
+    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1584208703741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770945" />
+    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1584208703741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770945" />
+    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1584208703741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770946" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1583850891432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583850891432" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1583850891432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583850891432" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1583850891431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583850891431" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1583850891432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583850891432" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583269339389">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583269339389" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583972232702">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583972232702" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281569051" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583268907621" />
+    <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583368036833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1583368036833" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584209140067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584209140067" />
+    <state x="512" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583374607735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="512" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1583374607735" />
+    <state x="680" y="166" key="run.anything.popup" timestamp="1583700075408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583700075408" />
+    <state x="346" y="58" width="672" height="669" key="search.everywhere.popup" timestamp="1583700079260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="58" width="672" height="669" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583700079260" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583269332052" />
+  </component>
+</project>

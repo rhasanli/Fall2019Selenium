@@ -1,0 +1,17 @@
+// --> alternative path
+
+/  --> full path
+
+//button[text()='Button 2']  - by text
+
+//button[@onclick='button1()']  - by onclick value
+
+//button[@id='button_btn'] - by id
+
+//button[@class='btn btn-primary']   or  //*[@class='btn btn-primary']
+
+//tag[@attribute='value']
+
+//button[starts-with(@id,'button_')] -- to match beginning of attribute
+
+//tag[starts-with(@attribute,'button_')]
