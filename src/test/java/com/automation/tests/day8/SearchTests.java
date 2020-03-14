@@ -18,33 +18,40 @@ public class SearchTests {
     private WebDriver driver;
 
     @Test
-    public void googleSearchTest(){
+    public void googleSearchTest() {
         driver.get("http://google.com");
         driver.findElement(By.name("q")).sendKeys("java", Keys.ENTER);
         BrowserUtils.wait(2);
         //since every search item has a tag name <h3>
         //it's the easiest way to collect all of them
         List<WebElement> searchItems = driver.findElements(By.tagName("h3"));
-        for(WebElement searchItem: searchItems){
+        for (WebElement searchItem : searchItems) {
             String var = searchItem.getText();
             //if there is a text - print it
-            if(!var.isEmpty()){
+            if (!var.isEmpty()) {
                 System.out.println(var);
                 //verify that every search result contains java
                 Assert.assertTrue(var.toLowerCase().contains("java"));
+                System.out.println(var.toLowerCase());
+                System.out.println();
             }
         }
     }
 
+    @Test(description = "Search for Java book on amazon")
+    public void amazonSearchTest() {
+        driver.get("http://amazon.com");
+    }
+
     @BeforeMethod
-    public void setup(){
+    public void setup() {
         //setup webdriver
         WebDriverManager.chromedriver().version("79").setup();
         driver = new ChromeDriver();
     }
 
     @AfterMethod
-    public void teardown(){
+    public void teardown() {
         //close browser and destroy webdriver object
         driver.quit();
     }

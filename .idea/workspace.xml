@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="" />
+    <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,26 +41,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/automation/tests" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitPracticeFall2019/.gitignore" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="TestNG.SearchTests">
-    <configuration name="CSS_Selector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day7.CSS_Selector" />
-      <module name="Fall2019Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.day7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Test2">
     <configuration name="BasicTestNGTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Fall2019Selenium" />
       <extension name="coverage">
@@ -84,6 +76,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
       <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.SearchTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.Test2" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -129,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Test2" />
         <item itemvalue="TestNG.SearchTests" />
         <item itemvalue="TestNG.BasicTestNGTests" />
         <item itemvalue="TestNG.UnitTestPractice.test2" />
         <item itemvalue="TestNG.UnitTestPractice.test" />
-        <item itemvalue="Application.CSS_Selector" />
       </list>
     </recent_temporary>
   </component>
@@ -184,25 +193,25 @@
     </state>
     <state x="463" y="93" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583886756377" />
     <state x="463" y="94" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583283128326" />
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1584208703741">
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1584214045074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
     <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770946" />
-    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1584208703741">
+    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1584214045074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
     <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770945" />
-    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1584208703741">
+    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1584214045074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
     <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770945" />
-    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1584208703741">
+    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1584214045074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584208703741" />
+    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
     <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770946" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1583850891432">
       <screen x="0" y="0" width="1366" height="728" />
@@ -228,10 +237,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584209379776" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583972232702">
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1584213623615">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583972232702" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1584213623615" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584213336401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584213336401" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281569051" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583268907621" />
     <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583368036833">
