@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="Updated March 14">
-      <change afterPath="$PROJECT_DIR$/.idea/Fall2019Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day1/My1stSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/BasicNavigation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/GoogleSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/JumpToNewWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/QuitVsClose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementById.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/FindElementsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/VerifyThatElementIsGone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/WarmUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/CheckBoxesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/FileUploading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/NestedFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtonsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/TestForiFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/NoSelectDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByTextMultipleOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/CSS_Selector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/BasicTestNGTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/UnitTestPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/XPath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Fall2019Selenium.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day1/My1stSelenium.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/BasicNavigation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/GoogleSearchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/JumpToNewWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/QuitVsClose.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day3/FindElementById.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day3/FindElementPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/FindElementsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/VerifyThatElementIsGone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/WarmUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/CheckBoxes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/CheckBoxesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/FileUploading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/NestedFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RadioButtons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RadioButtonsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RegistrationForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/TestForiFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/Alerts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/NoSelectDropdown.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByTextMultipleOption.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/Xpath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day7/CSS_Selector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day7/Xpath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/BasicTestNGTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/UnitTestPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/BrowserUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/DriverFactory.class" afterDir="false" />
-    </list>
+    <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583268805983</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated March 14">
+      <created>1584209252805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584209252805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,10 +175,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="362" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281666181" />
-    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1584208955735">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1584209251947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584208955735" />
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584209251947" />
     <state x="463" y="93" key="FileChooserDialogImpl" timestamp="1583886756377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -291,6 +224,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1583269339389" />
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1584209379776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584209379776" />
     <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583972232702">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
