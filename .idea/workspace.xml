@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/ForgotPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/PracticeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/PracticeTestsList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/SearchTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/SearchTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/Test2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +47,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/automation/tests" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../GitPracticeFall2019/.gitignore" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="TestNG.Test2">
-    <configuration name="BasicTestNGTests" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.automation.tests.day8" />
+      <recent name="com.automation.utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CheckBoxes.forgotPassword">
+    <configuration name="CheckBoxes.forgotPassword" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Fall2019Selenium" />
       <extension name="coverage">
         <pattern>
@@ -58,7 +68,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.BasicTestNGTests" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.CheckBoxes" />
+      <option name="METHOD_NAME" value="forgotPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPassword.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.ForgotPassword" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.PracticeTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -66,7 +112,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeTests.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.PracticeTests" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.amazonSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Fall2019Selenium" />
       <extension name="coverage">
         <pattern>
@@ -76,59 +140,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
       <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.SearchTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Fall2019Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.day8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.Test2" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnitTestPractice.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Fall2019Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.day8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.UnitTestPractice" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnitTestPractice.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Fall2019Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.day8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.day8" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day8.UnitTestPractice" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="METHOD_NAME" value="amazonSearchTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -138,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Test2" />
-        <item itemvalue="TestNG.SearchTests" />
-        <item itemvalue="TestNG.BasicTestNGTests" />
-        <item itemvalue="TestNG.UnitTestPractice.test2" />
-        <item itemvalue="TestNG.UnitTestPractice.test" />
+        <item itemvalue="TestNG.CheckBoxes.forgotPassword" />
+        <item itemvalue="TestNG.ForgotPassword.loginTest" />
+        <item itemvalue="TestNG.PracticeTests.loginTest" />
+        <item itemvalue="TestNG.PracticeTests" />
+        <item itemvalue="TestNG.SearchTests.amazonSearchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584209252805</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated March 14">
+      <created>1584218693952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584218693952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +191,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated March 14" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1584285893298">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584285893298" />
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584208642489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,38 +203,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583699280692" />
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584285425045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1584285425045" />
     <state x="362" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583281666181">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="362" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281666181" />
-    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1584209251947">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1584218692913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584209251947" />
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584218692913" />
     <state x="463" y="93" key="FileChooserDialogImpl" timestamp="1583886756377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="93" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583886756377" />
     <state x="463" y="94" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583283128326" />
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1584214045074">
+    <state width="1323" height="129" key="GridCell.Tab.0.bottom" timestamp="1584233248988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
+    <state width="1323" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584233248988" />
     <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770946" />
-    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1584214045074">
+    <state width="1323" height="129" key="GridCell.Tab.0.center" timestamp="1584233248988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
+    <state width="1323" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584233248988" />
     <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770945" />
-    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1584214045074">
+    <state width="1323" height="129" key="GridCell.Tab.0.left" timestamp="1584233248988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
+    <state width="1323" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584233248988" />
     <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770945" />
-    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1584214045074">
+    <state width="1323" height="129" key="GridCell.Tab.0.right" timestamp="1584233248988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584214045074" />
+    <state width="1323" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584233248988" />
     <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281770946" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1583850891432">
       <screen x="0" y="0" width="1366" height="728" />
@@ -241,20 +268,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1584213623615" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584213336401">
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584285867774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584213336401" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584285867774" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1280.1024@0.0.1366.738" timestamp="1583281569051" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1583268907621" />
     <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583368036833">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1583368036833" />
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584209140067">
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584285911337">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584209140067" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584285911337" />
     <state x="512" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583374607735">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
