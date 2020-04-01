@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/notes/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/AbstractPageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/fleet/VehiclesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/ActionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/JavaScriptExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/JSExecutor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/DriverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day9/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/AbstractTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activites/CalendarEventsTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activites/CalendarEventsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activites/CallsPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activites/NewCalendarEventsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/fleet/NewVehicleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/fleet/VehiclesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DateTimeUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/CheckBoxes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/ForgotPassword.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/PracticeTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/PracticeTestsList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Tue_Mar_31_19-17-13_CDT_2020_loginPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/screenshots/Tue_Mar_31_20-42-39_CDT_2020_verifyPageTitle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/XPath" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/notes/XPath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/BrowserUtils.class" afterDir="false" />
-    </list>
+    <list default="true" id="110ac2cb-1425-4196-b658-e0a627a5a29b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
