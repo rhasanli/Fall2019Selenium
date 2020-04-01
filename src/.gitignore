@@ -1,4 +1,11 @@
 .idea
 *.iml
-target
+target/
 debug.log
+
+test-output
+.settings/
+
+.classpath
+
+.DS_Store

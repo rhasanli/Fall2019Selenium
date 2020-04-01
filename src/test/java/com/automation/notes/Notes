@@ -1,0 +1,4 @@
+Configuration Properties file => store credentials connection url's info about servers
+POM => store locators
+keep elements inside class not in properties
+you have to always keep check what is the keyname to use that locator, not convenient

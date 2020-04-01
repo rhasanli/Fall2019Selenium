@@ -46,6 +46,12 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- http://extentreports.com/docs/versions/4/java/ -->
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>4.0.4</version>
+        </dependency>
 
     </dependencies>
 
